@@ -39,4 +39,4 @@ jobs:
           app-name: 'BCE-AAE-BP-Receipts-DEV-RG'
           slot-name: 'Production'
           package: '${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}/output'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_198DCE14C75641298840A9F52C936FE6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EE00C7871CCD4AC883F13D4EB39003A4 }}
